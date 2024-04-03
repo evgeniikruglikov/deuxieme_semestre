@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\obj\Debug\rabota12.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\obj\Debug\rabota12.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\bin\Debug\rabota12.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\bin\Debug\rabota12.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\obj\Debug\rabota12.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\rabota12\rabota12\obj\Debug\rabota12.pdb
