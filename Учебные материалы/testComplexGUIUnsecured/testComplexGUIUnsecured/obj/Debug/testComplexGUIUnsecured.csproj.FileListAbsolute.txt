@@ -1,0 +1,9 @@
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.csprojAssemblyReference.cache
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.frmComplexMain.resources
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.frmCreateChange.resources
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.Properties.Resources.resources
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.csproj.GenerateResource.cache
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\bin\Debug\testComplexGUIUnsecured.exe
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\bin\Debug\testComplexGUIUnsecured.pdb
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.exe
+c:\Users\flash\source\repos\testComplexGUIUnsecured\testComplexGUIUnsecured\obj\Debug\testComplexGUIUnsecured.pdb

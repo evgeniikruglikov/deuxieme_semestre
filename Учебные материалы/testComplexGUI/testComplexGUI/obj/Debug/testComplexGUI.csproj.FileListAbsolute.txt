@@ -1,0 +1,9 @@
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.csprojAssemblyReference.cache
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.frmComplexMain.resources
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.frmCreateChange.resources
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.Properties.Resources.resources
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.csproj.GenerateResource.cache
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\bin\Debug\testComplexGUI.exe
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\bin\Debug\testComplexGUI.pdb
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.exe
+C:\Users\flash\source\repos\testComplexGUI\testComplexGUI\obj\Debug\testComplexGUI.pdb
